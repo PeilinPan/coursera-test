@@ -1,2 +1,2 @@
 # coursera-test
-Coursera Test Repository
+My HTML project for coursera "Web Technology" courses. 
